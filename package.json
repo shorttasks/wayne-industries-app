@@ -1,10 +1,10 @@
 {
-  "name": "@peers/webapp",
+  "name": "wayne-industries-app",
   "version": "0.1.0",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/timermachine/-peers-sample-webapp.git"
+    "url": "git@github.com:shorttasks/wayne-industries-app.git"
   },
   "keywords": [],
   "author": "",
